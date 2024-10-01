@@ -1,6 +1,6 @@
 # Frontend Mentor - Product preview card component solution
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -25,11 +25,10 @@ Users should be able to:
 
 ![](./project-ss.jpeg)
 
-
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://asimsaeed353.github.io/product-preview-card-component-main/)
 
 ## My process
 
@@ -43,6 +42,4 @@ Users should be able to:
 
 ### What I learned
 
-I was not comfortable with mobile-first-workflow. This challenge helped me gain confidence in designing layouts  first for small screen sizes and make them responsive for large screen sizes.
-
-
+I was not comfortable with mobile-first-workflow. This challenge helped me gain confidence in designing layouts first for small screen sizes and make them responsive for large screen sizes.
